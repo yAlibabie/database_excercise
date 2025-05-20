@@ -1,1 +1,6 @@
-/*  :D چیزی دراپ نکردم چون چیزی نب.د که نیاز  نداشته باشم */
+drop table person;
+drop table student;
+drop table professors;
+drop table food;
+drop table daily_menu;
+drop table orders;
